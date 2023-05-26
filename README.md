@@ -48,15 +48,15 @@ A interface criada considerou todas as recomendações recebidas pelos usuários
 
 1. Na primeira tela, convidamos os nossos usuários a conhecer melhor os personagens da série. 
 
-![Tela 1](src/img/interface%201.jpg)
+![Tela 1](src/img/1-%20interface.jpg)
 
 2. Na página seguinte, exibimos por meio de cards, todos os protagonistas da série "Breaking Bad" com a possibilidade de pesquisar pelo nome, classificar e filtrar por temporada. Adicionalmente, disponibilizamos a funcionalidade de filtrar os personagens da série "Better Call Saul", o que é uma informação relevante para nossos usuários. Além disso, há links adicionais para os trailers das séries, que redirecionam os usuários para o YouTube.
 
-![Tela 2](src/img/interface%202.jpg)
+![Tela 2](src/img/2-%20Interface.jpg)
 
 3. Ao clicar no card, ele gira e no verso, apresenta algumas informações adicionais, como data de aniversário, o status do personagem, nome do protagonista, entre outros. 
 
-![Tela 3](src/img/interface%203.jpg)
+![Tela 3](src/img/3-%20Interface.jpg)
 
 ## 5. Responsividade :iphone:
 
